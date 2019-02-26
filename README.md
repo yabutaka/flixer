@@ -13,12 +13,16 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
 #### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
+- [x] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
 - [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 ### App Walkthough GIF
 
 <img src=http://g.recordit.co/GFMsjS5S7b.gif width=250><br>
+
+Added feature: User can tap a poster in the collection view to see a detail screen of that movie.
+<img src=http://g.recordit.co/r0v3DrDPHu.gif width=250><br>
+
 
 ### Notes
 
@@ -29,10 +33,6 @@ When I was closely examining the link to load from, I noticed that I did not pro
 Aside from the project, I was stuck with Git too. By mistake, I created multiple Git, so I had to merge the different histories. It took me another 2 hours to figure out how to push the local changes to the remote. After all these struggels, here now I can submit this assigment.
 
 ---
-
-
-
-
 
 
 ## Flix Part 1
