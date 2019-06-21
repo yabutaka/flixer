@@ -50,7 +50,7 @@ Aside from the project, I was stuck with Git too. By mistake, I created multiple
 
 ### App Walkthough GIF
 
-<img src=http://g.recordit.co/K5kDf1DYXY.gif width=250><br>
+<img src=http://g.recordit.co/2lwlABHpEU.gif width=250><br>
 
 ### Notes
 Everything went smooth for the most parts.
